@@ -129,4 +129,4 @@ docker logs django_backend
 
 ---
 
-This setup is intended for local development. For production, additional configuration such as a WSGI server, reverse proxy, and environment hardening will be required.
+This setup is intended for local development. For production, additional configuration such as a WSGI server, reverse proxy, and environment hardening will be required
